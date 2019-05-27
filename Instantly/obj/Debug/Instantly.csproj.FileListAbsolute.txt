@@ -1,0 +1,438 @@
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\ApplicationInsights.config
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Instantly.dll.config
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Instantly.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Instantly.pdb
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\csc.exe
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\csc.exe.config
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\csc.rsp
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\csi.exe
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\csi.exe.config
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\csi.rsp
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.AppContext.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Console.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.IO.Compression.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.IO.Pipes.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Security.Claims.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.ValueTuple.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\vbc.exe
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\vbc.exe.config
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\vbc.rsp
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\VBCSCompiler.exe
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Antlr3.Runtime.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Castle.Core.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\EntityFramework.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\EntityFramework.SqlServer.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AI.Web.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.ApplicationInsights.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.Options.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Owin.Cors.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Owin.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Owin.Security.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Win32.Primitives.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Newtonsoft.Json.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Ninject.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Ninject.Extensions.Factory.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\OAuth.Owin.Tokens.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Owin.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.AppContext.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Console.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Data.SQLite.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Data.SQLite.EF6.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Data.SQLite.Linq.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Globalization.Calendars.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.IO.Compression.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.IO.Compression.ZipFile.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.IO.FileSystem.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Net.Http.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Net.Http.Formatting.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Net.Sockets.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Text.Encodings.Web.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Cors.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Helpers.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Http.Cors.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Http.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Http.WebHost.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Mvc.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Optimization.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Razor.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.WebPages.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.WebPages.Razor.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Xml.ReaderWriter.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\WebGrease.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\EntityFramework.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\EntityFramework.SqlServer.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.DataProtection.Extensions.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.Options.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Owin.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Owin.Cors.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Owin.Security.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Ninject.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Ninject.Extensions.Factory.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\OAuth.Owin.Tokens.pdb
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\OAuth.Owin.Tokens.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Data.SQLite.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Data.SQLite.dll.config
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Net.Http.Formatting.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Text.Encodings.Web.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Http.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Http.Cors.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Newtonsoft.Json.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Helpers.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Http.WebHost.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Mvc.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Optimization.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.Razor.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.WebPages.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Web.WebPages.Razor.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Antlr3.Runtime.pdb
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.AI.Web.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\obj\Debug\Instantly.csprojAssemblyReference.cache
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\obj\Debug\Instantly.csproj.CoreCompileInputs.cache
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\obj\Debug\Instantly.csproj.CopyComplete
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\obj\Debug\Instantly.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\Instantly\Instantly\obj\Debug\Instantly.pdb
+D:\Instantly\Instantly\bin\ApplicationInsights.config
+D:\Instantly\Instantly\bin\Instantly.dll.config
+D:\Instantly\Instantly\bin\Instantly.dll
+D:\Instantly\Instantly\bin\Instantly.pdb
+D:\Instantly\Instantly\bin\roslyn\csc.exe
+D:\Instantly\Instantly\bin\roslyn\csc.exe.config
+D:\Instantly\Instantly\bin\roslyn\csc.rsp
+D:\Instantly\Instantly\bin\roslyn\csi.exe
+D:\Instantly\Instantly\bin\roslyn\csi.exe.config
+D:\Instantly\Instantly\bin\roslyn\csi.rsp
+D:\Instantly\Instantly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Instantly\Instantly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Instantly\Instantly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Instantly\Instantly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Instantly\Instantly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Instantly\Instantly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Instantly\Instantly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Instantly\Instantly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Instantly\Instantly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Instantly\Instantly\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Instantly\Instantly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Instantly\Instantly\bin\roslyn\System.AppContext.dll
+D:\Instantly\Instantly\bin\roslyn\System.Collections.Immutable.dll
+D:\Instantly\Instantly\bin\roslyn\System.Console.dll
+D:\Instantly\Instantly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Instantly\Instantly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Instantly\Instantly\bin\roslyn\System.IO.Compression.dll
+D:\Instantly\Instantly\bin\roslyn\System.IO.FileSystem.dll
+D:\Instantly\Instantly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Instantly\Instantly\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Instantly\Instantly\bin\roslyn\System.IO.Pipes.dll
+D:\Instantly\Instantly\bin\roslyn\System.Reflection.Metadata.dll
+D:\Instantly\Instantly\bin\roslyn\System.Security.AccessControl.dll
+D:\Instantly\Instantly\bin\roslyn\System.Security.Claims.dll
+D:\Instantly\Instantly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Instantly\Instantly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Instantly\Instantly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Instantly\Instantly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Instantly\Instantly\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Instantly\Instantly\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Instantly\Instantly\bin\roslyn\System.ValueTuple.dll
+D:\Instantly\Instantly\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Instantly\Instantly\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Instantly\Instantly\bin\roslyn\System.Xml.XPath.dll
+D:\Instantly\Instantly\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Instantly\Instantly\bin\roslyn\vbc.exe
+D:\Instantly\Instantly\bin\roslyn\vbc.exe.config
+D:\Instantly\Instantly\bin\roslyn\vbc.rsp
+D:\Instantly\Instantly\bin\roslyn\VBCSCompiler.exe
+D:\Instantly\Instantly\bin\roslyn\VBCSCompiler.exe.config
+D:\Instantly\Instantly\bin\Antlr3.Runtime.dll
+D:\Instantly\Instantly\bin\Castle.Core.dll
+D:\Instantly\Instantly\bin\EntityFramework.dll
+D:\Instantly\Instantly\bin\EntityFramework.SqlServer.dll
+D:\Instantly\Instantly\bin\InstagramApiSharp.dll
+D:\Instantly\Instantly\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Instantly\Instantly\bin\Microsoft.AI.DependencyCollector.dll
+D:\Instantly\Instantly\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Instantly\Instantly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Instantly\Instantly\bin\Microsoft.AI.Web.dll
+D:\Instantly\Instantly\bin\Microsoft.AI.WindowsServer.dll
+D:\Instantly\Instantly\bin\Microsoft.ApplicationInsights.dll
+D:\Instantly\Instantly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Instantly\Instantly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Instantly\Instantly\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Instantly\Instantly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Instantly\Instantly\bin\Microsoft.Data.Edm.dll
+D:\Instantly\Instantly\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Instantly\Instantly\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Instantly\Instantly\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Instantly\Instantly\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Instantly\Instantly\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Instantly\Instantly\bin\Microsoft.Extensions.Options.dll
+D:\Instantly\Instantly\bin\Microsoft.Extensions.Primitives.dll
+D:\Instantly\Instantly\bin\Microsoft.OData.Core.dll
+D:\Instantly\Instantly\bin\Microsoft.OData.Edm.dll
+D:\Instantly\Instantly\bin\Microsoft.Owin.Cors.dll
+D:\Instantly\Instantly\bin\Microsoft.Owin.dll
+D:\Instantly\Instantly\bin\Microsoft.Owin.Host.HttpListener.dll
+D:\Instantly\Instantly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Instantly\Instantly\bin\Microsoft.Owin.Hosting.dll
+D:\Instantly\Instantly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Instantly\Instantly\bin\Microsoft.Owin.Security.dll
+D:\Instantly\Instantly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Instantly\Instantly\bin\Microsoft.Spatial.dll
+D:\Instantly\Instantly\bin\Microsoft.Web.Infrastructure.dll
+D:\Instantly\Instantly\bin\Microsoft.Win32.Primitives.dll
+D:\Instantly\Instantly\bin\Newtonsoft.Json.dll
+D:\Instantly\Instantly\bin\Ninject.dll
+D:\Instantly\Instantly\bin\Ninject.Web.Common.dll
+D:\Instantly\Instantly\bin\Ninject.Web.WebApi.dll
+D:\Instantly\Instantly\bin\OAuth.Owin.Tokens.dll
+D:\Instantly\Instantly\bin\Owin.dll
+D:\Instantly\Instantly\bin\System.AppContext.dll
+D:\Instantly\Instantly\bin\System.Console.dll
+D:\Instantly\Instantly\bin\System.Data.SQLite.dll
+D:\Instantly\Instantly\bin\System.Data.SQLite.EF6.dll
+D:\Instantly\Instantly\bin\System.Data.SQLite.Linq.dll
+D:\Instantly\Instantly\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Instantly\Instantly\bin\System.Globalization.Calendars.dll
+D:\Instantly\Instantly\bin\System.IO.Compression.dll
+D:\Instantly\Instantly\bin\System.IO.Compression.ZipFile.dll
+D:\Instantly\Instantly\bin\System.IO.FileSystem.dll
+D:\Instantly\Instantly\bin\System.IO.FileSystem.Primitives.dll
+D:\Instantly\Instantly\bin\System.Net.Http.dll
+D:\Instantly\Instantly\bin\System.Net.Http.Formatting.dll
+D:\Instantly\Instantly\bin\System.Net.Sockets.dll
+D:\Instantly\Instantly\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Instantly\Instantly\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Instantly\Instantly\bin\System.Security.Cryptography.Algorithms.dll
+D:\Instantly\Instantly\bin\System.Security.Cryptography.Encoding.dll
+D:\Instantly\Instantly\bin\System.Security.Cryptography.Primitives.dll
+D:\Instantly\Instantly\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Instantly\Instantly\bin\System.Spatial.dll
+D:\Instantly\Instantly\bin\System.Text.Encodings.Web.dll
+D:\Instantly\Instantly\bin\System.Web.Cors.dll
+D:\Instantly\Instantly\bin\System.Web.Helpers.dll
+D:\Instantly\Instantly\bin\System.Web.Http.Cors.dll
+D:\Instantly\Instantly\bin\System.Web.Http.dll
+D:\Instantly\Instantly\bin\System.Web.Http.Owin.dll
+D:\Instantly\Instantly\bin\System.Web.Http.WebHost.dll
+D:\Instantly\Instantly\bin\System.Web.Mvc.dll
+D:\Instantly\Instantly\bin\System.Web.OData.dll
+D:\Instantly\Instantly\bin\System.Web.Optimization.dll
+D:\Instantly\Instantly\bin\System.Web.Razor.dll
+D:\Instantly\Instantly\bin\System.Web.WebPages.Deployment.dll
+D:\Instantly\Instantly\bin\System.Web.WebPages.dll
+D:\Instantly\Instantly\bin\System.Web.WebPages.Razor.dll
+D:\Instantly\Instantly\bin\System.Xml.ReaderWriter.dll
+D:\Instantly\Instantly\bin\WebActivatorEx.dll
+D:\Instantly\Instantly\bin\WebGrease.dll
+D:\Instantly\Instantly\bin\Castle.Core.xml
+D:\Instantly\Instantly\bin\EntityFramework.xml
+D:\Instantly\Instantly\bin\EntityFramework.SqlServer.xml
+D:\Instantly\Instantly\bin\Microsoft.AI.DependencyCollector.xml
+D:\Instantly\Instantly\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Instantly\Instantly\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Instantly\Instantly\bin\Microsoft.AI.Web.xml
+D:\Instantly\Instantly\bin\Microsoft.AI.WindowsServer.xml
+D:\Instantly\Instantly\bin\Microsoft.ApplicationInsights.xml
+D:\Instantly\Instantly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Instantly\Instantly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Instantly\Instantly\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.DataProtection.Extensions.xml
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Instantly\Instantly\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Instantly\Instantly\bin\Microsoft.Data.Edm.xml
+D:\Instantly\Instantly\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Instantly\Instantly\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Instantly\Instantly\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Instantly\Instantly\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Instantly\Instantly\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Instantly\Instantly\bin\Microsoft.Extensions.Options.xml
+D:\Instantly\Instantly\bin\Microsoft.Extensions.Primitives.xml
+D:\Instantly\Instantly\bin\Microsoft.OData.Core.xml
+D:\Instantly\Instantly\bin\Microsoft.OData.Edm.xml
+D:\Instantly\Instantly\bin\Microsoft.Owin.xml
+D:\Instantly\Instantly\bin\Microsoft.Owin.Cors.xml
+D:\Instantly\Instantly\bin\Microsoft.Owin.Host.HttpListener.xml
+D:\Instantly\Instantly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Instantly\Instantly\bin\Microsoft.Owin.Hosting.xml
+D:\Instantly\Instantly\bin\Microsoft.Owin.Security.xml
+D:\Instantly\Instantly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Instantly\Instantly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Instantly\Instantly\bin\Microsoft.Spatial.xml
+D:\Instantly\Instantly\bin\Ninject.xml
+D:\Instantly\Instantly\bin\Ninject.Web.Common.xml
+D:\Instantly\Instantly\bin\Ninject.Web.WebApi.xml
+D:\Instantly\Instantly\bin\OAuth.Owin.Tokens.pdb
+D:\Instantly\Instantly\bin\OAuth.Owin.Tokens.xml
+D:\Instantly\Instantly\bin\System.Data.SQLite.xml
+D:\Instantly\Instantly\bin\System.Data.SQLite.dll.config
+D:\Instantly\Instantly\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Instantly\Instantly\bin\System.Net.Http.Formatting.xml
+D:\Instantly\Instantly\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Instantly\Instantly\bin\System.Spatial.xml
+D:\Instantly\Instantly\bin\System.Text.Encodings.Web.xml
+D:\Instantly\Instantly\bin\System.Web.Http.xml
+D:\Instantly\Instantly\bin\System.Web.Http.Cors.xml
+D:\Instantly\Instantly\bin\System.Web.Http.Owin.xml
+D:\Instantly\Instantly\bin\System.Web.OData.xml
+D:\Instantly\Instantly\bin\Newtonsoft.Json.xml
+D:\Instantly\Instantly\bin\System.Web.Helpers.xml
+D:\Instantly\Instantly\bin\System.Web.Http.WebHost.xml
+D:\Instantly\Instantly\bin\System.Web.Mvc.xml
+D:\Instantly\Instantly\bin\System.Web.Optimization.xml
+D:\Instantly\Instantly\bin\System.Web.Razor.xml
+D:\Instantly\Instantly\bin\System.Web.WebPages.xml
+D:\Instantly\Instantly\bin\System.Web.WebPages.Deployment.xml
+D:\Instantly\Instantly\bin\System.Web.WebPages.Razor.xml
+D:\Instantly\Instantly\bin\Antlr3.Runtime.pdb
+D:\Instantly\Instantly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Instantly\Instantly\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Instantly\Instantly\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Instantly\Instantly\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Instantly\Instantly\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Instantly\Instantly\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Instantly\Instantly\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Instantly\Instantly\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Instantly\Instantly\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Instantly\Instantly\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Instantly\Instantly\bin\de\Microsoft.OData.Core.resources.dll
+D:\Instantly\Instantly\bin\es\Microsoft.OData.Core.resources.dll
+D:\Instantly\Instantly\bin\fr\Microsoft.OData.Core.resources.dll
+D:\Instantly\Instantly\bin\it\Microsoft.OData.Core.resources.dll
+D:\Instantly\Instantly\bin\ja\Microsoft.OData.Core.resources.dll
+D:\Instantly\Instantly\bin\ko\Microsoft.OData.Core.resources.dll
+D:\Instantly\Instantly\bin\ru\Microsoft.OData.Core.resources.dll
+D:\Instantly\Instantly\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\Instantly\Instantly\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\Instantly\Instantly\bin\de\Microsoft.OData.Edm.resources.dll
+D:\Instantly\Instantly\bin\es\Microsoft.OData.Edm.resources.dll
+D:\Instantly\Instantly\bin\fr\Microsoft.OData.Edm.resources.dll
+D:\Instantly\Instantly\bin\it\Microsoft.OData.Edm.resources.dll
+D:\Instantly\Instantly\bin\ja\Microsoft.OData.Edm.resources.dll
+D:\Instantly\Instantly\bin\ko\Microsoft.OData.Edm.resources.dll
+D:\Instantly\Instantly\bin\ru\Microsoft.OData.Edm.resources.dll
+D:\Instantly\Instantly\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\Instantly\Instantly\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\Instantly\Instantly\bin\de\Microsoft.Spatial.resources.dll
+D:\Instantly\Instantly\bin\es\Microsoft.Spatial.resources.dll
+D:\Instantly\Instantly\bin\fr\Microsoft.Spatial.resources.dll
+D:\Instantly\Instantly\bin\it\Microsoft.Spatial.resources.dll
+D:\Instantly\Instantly\bin\ja\Microsoft.Spatial.resources.dll
+D:\Instantly\Instantly\bin\ko\Microsoft.Spatial.resources.dll
+D:\Instantly\Instantly\bin\ru\Microsoft.Spatial.resources.dll
+D:\Instantly\Instantly\bin\zh-Hans\Microsoft.Spatial.resources.dll
+D:\Instantly\Instantly\bin\zh-Hant\Microsoft.Spatial.resources.dll
+D:\Instantly\Instantly\bin\de\System.Spatial.resources.dll
+D:\Instantly\Instantly\bin\es\System.Spatial.resources.dll
+D:\Instantly\Instantly\bin\fr\System.Spatial.resources.dll
+D:\Instantly\Instantly\bin\it\System.Spatial.resources.dll
+D:\Instantly\Instantly\bin\ja\System.Spatial.resources.dll
+D:\Instantly\Instantly\bin\ko\System.Spatial.resources.dll
+D:\Instantly\Instantly\bin\ru\System.Spatial.resources.dll
+D:\Instantly\Instantly\bin\zh-Hans\System.Spatial.resources.dll
+D:\Instantly\Instantly\bin\zh-Hant\System.Spatial.resources.dll
+D:\Instantly\Instantly\obj\Debug\Instantly.csproj.CoreCompileInputs.cache
+D:\Instantly\Instantly\obj\Debug\Instantly.csproj.CopyComplete
+D:\Instantly\Instantly\obj\Debug\Instantly.dll
+D:\Instantly\Instantly\obj\Debug\Instantly.pdb
+D:\Instantly\Instantly\obj\Debug\Instantly.csprojAssemblyReference.cache
+D:\Instantly\Instantly\bin\Swashbuckle.Core.dll

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OAuth.Owin.Tokens</name>
+    </assembly>
+    <members>
+        <member name="T:OAuth.Owin.Tokens.DataProtectorShim">
+            <summary>
+            Converts a <see cref="T:Microsoft.AspNetCore.DataProtection.IDataProtector"/> to a <see cref="T:Microsoft.Owin.Security.DataProtection.IDataProtector"/>.
+            </summary>
+        </member>
+    </members>
+</doc>
